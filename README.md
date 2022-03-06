@@ -77,14 +77,3 @@ Non-upgrdable:
    - select solidity 0.4.23 version in settings
  - once deployed, call `initialize` function with parameter address of owner's contract
 
-# Disclaimer
-This tool is not affiliated with https://poa.network
-This is a personal project of Roman Storm.
-
-He is not responsible for any loss from transactions derived by MultiSender.  Some of the underlying JavaScript libraries and Ethereum tools that were used are under active development. The website and smart contract has been thoroughly tested, there is always the possibility something unexpected happens resulting in losses of Ethereum and/or tokens.
-
-Any ERC20 tokens you transfer to the Multisender will be sent out to the addresses that you provided.
-
-The smart contract source code can be audited by anyone in this repository.
-
-I encourage you to assess its security before using the Mutlisender Dapp.
